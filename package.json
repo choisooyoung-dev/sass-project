@@ -1,0 +1,26 @@
+{
+  "name": "sass-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass",
+    "sass": "node-sass -w -r styles/main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choisooyoung-dev/sass-project.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choisooyoung-dev/sass-project/issues"
+  },
+  "homepage": "https://github.com/choisooyoung-dev/sass-project#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
